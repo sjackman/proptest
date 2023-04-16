@@ -123,3 +123,5 @@ optional = true
 
 [dev-dependencies]
 regex = "1.0"
+# trybuild = { git = "https://github.com/cameron1024/trybuild" }
+trybuild = { path = "../../trybuild" }
